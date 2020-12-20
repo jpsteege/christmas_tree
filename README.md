@@ -1,7 +1,6 @@
-# Christmas Tree
+# Christmas Tree  :christmas_tree:
 
-Small repository to create a chirstmas tree picture using Python and Turtle
-This image is used for our personal christmas card
+Small repository to create a chirstmas tree picture using Python and Turtle. This image is used for our personal christmas card.
 
 Want to explore the code by yourself? Please follow these steps:
 
@@ -14,17 +13,24 @@ Want to explore the code by yourself? Please follow these steps:
    `ipython kernel install --name 'Python 3 (Conda)' --user`
 
 ### Download the code
-4. Download the code of this repository. In the upper right corner of this screen, click on the green 'Code'-button and then select 'Download ZIP'. <br>
+5. Download the code of this repository. In the upper right corner of this screen, click on the green 'Code'-button and then select 'Download ZIP'. <br>
    Once downloaded, extract the ZIP-file
-5. Find the system path of the just downloaded folder, which you can find using Windows Explorer or Mac Finder.
-6. In the text editor go to the folder you just downloaded. This can be done by typing the following command: <br>
-   `cd '<path>'` <br>
-   You know should notice that the path you just entered is visible in the code editor
 
 ### Start up
-7. Now start Jupyter using the following command: <br>
+6. Open a code editor instance in the just downloaded folder. You can achieve this on 2 ways:
+   
+   Method A:
+      1. Find the system path of the just downloaded folder, which you can find using Windows Explorer or Mac Finder. <br>
+      2. In the text editor go to the folder you just downloaded. This can be done by typing the following command: <br>
+      `cd '<path>'` <br>
+      You know should notice that the path you just entered is visible in the code editor
+   
+   Method B:
+      1. Go to the folder and click with the right mouse button. Select 'Open PowerShell here' (Windows) or 'Open terminal here' (Mac)
+
+8. Now start Jupyter using the following command: <br>
    `jupyter lab` <br>
    A browser link becomes visible, which you can open.
-8. Open the notebook (file that ends with .ipynb). You now can see and run the code cells. 
+9. Open the notebook (file that ends with .ipynb). You now can see and run the code cells. 
 
    
