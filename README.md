@@ -47,7 +47,7 @@ Want to explore the code by yourself? Please follow these steps:
    `jupyter lab` <br>
    A browser link becomes visible, which you can open.
    <img src="images/setup8_init_jupyter.png" alt="Start Jupyter using 'jupyter lab' command" width="700"/><br>
-9. Open the notebook (file that ends with .ipynb). You now can see and run the code cells.
+9. Open the notebook (file that ends with .ipynb). You now can see and run the code cells by selecting them (blue line is visible before cell) and pressing the play button or the Shift+Enter keys.
    <img src="images/setup9_open_notebook.png" alt="Open the Notebookfile to run the code" width="700"/><br>
 
 
