@@ -11,6 +11,7 @@ Want to explore the code by yourself? Please follow these steps:
       - For Mac this is Terminal (Application > Utilities > Terminal)   
    You can check if conda is installed correctly: in the editore '(base)' should be the prefix of the row.<br>
    <img src="images/setup2-1_init.png" alt="Terminal window where 'base' prefix is visible" width="700"/>
+   
    A second test is to type `conda list`, a list with installed packages should be visible.<br>
    <img src="images/setup2-2_conda_list.png" alt="Terminal window where 'conda list' outcome is visible" width="700"/>
    
