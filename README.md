@@ -50,5 +50,4 @@ Want to explore the code by yourself? Please follow these steps:
 9. Open the notebook (file that ends with .ipynb). You now can see and run the code cells by selecting them (blue line is visible before cell) and pressing the play button or the Shift+Enter keys.
    <img src="images/setup9_open_notebook.png" alt="Open the Notebookfile to run the code" width="700"/><br>
 
-
-   
+## Happy Coding! :santa: 
