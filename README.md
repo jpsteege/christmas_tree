@@ -11,7 +11,6 @@ Want to explore the code by yourself? Please follow these steps:
       - For Mac this is Terminal (Application > Utilities > Terminal)   
    You can check if conda is installed correctly: in the editore '(base)' should be the prefix of the row.<br>
    <img src="images/setup2-1_init.png" alt="Terminal window where 'base' prefix is visible" width="700"/>
-   
    A second test is to type `conda list`, a list with installed packages should be visible.<br>
    <img src="images/setup2-2_conda_list.png" alt="Terminal window where 'conda list' outcome is visible" width="700"/>
    
@@ -29,18 +28,19 @@ Want to explore the code by yourself? Please follow these steps:
 6. Open a code editor instance in the just downloaded folder. You can achieve this on 2 ways:
    
    Method A:
-      1. Find the system path of the just downloaded folder, which you can find using Windows Explorer or Mac Finder. <br>
-      2. In the text editor go to the folder you just downloaded. This can be done by typing the following command: <br>
-      `cd '<path>'` <br>
-      <img src="images/setup6-1_cd_folder.png" alt="Go to the right folder using the 'cd' command" width="700"/><br>
-      You know should notice that the path you just entered is visible in the code editor
+      1.    Find the system path of the just downloaded folder, which you can find using Windows Explorer or Mac Finder. <br>
+      2.    In the text editor go to the folder you just downloaded. This can be done by typing the following command: <br>
+            `cd '<path>'` <br>
+            <img src="images/setup6-1_cd_folder.png" alt="Go to the right folder using the 'cd' command" width="700"/><br>
+            You know should notice that the path you just entered is visible in the code editor
    
    Method B:
-      1. Go to the folder and click with the right mouse button. Select 'Open PowerShell/Command Prompt here' (Windows)... (hold shift while right clicking if option is not visible)
-      <img src="images/setup6-2_start_command_window_here.png" alt="Go to the right folder using right-click folder options Windows" width="500"/>
+      1.    Go to the folder and click with the right mouse button. Select 'Open PowerShell/Command Prompt here' (Windows)...<br>
+            (hold shift while right clicking if option is not visible)<br>
+            <img src="images/setup6-2_start_command_window_here.png" alt="Go to the right folder using right-click folder options Windows" width="500"/>
       
-      ... or 'Open terminal here' (Mac)<br>
-      <img src="images/setup6-3_start_terminal_here.png" alt="Go to the right folder using right-click folder options Mac" width="500"/>
+            ... or 'Open terminal here' (Mac)<br>
+            <img src="images/setup6-3_start_terminal_here.png" alt="Go to the right folder using right-click folder options Mac" width="500"/>
 
 8. Now start Jupyter using the following command: <br>
    `jupyter lab` <br>
