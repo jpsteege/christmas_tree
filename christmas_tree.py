@@ -2,7 +2,7 @@
 
 import turtle
 
-def christmastree():
+def christmas_tree():
     # Setup drawing screen
     screen = turtle.Screen()
     screen.setup(900,870)
