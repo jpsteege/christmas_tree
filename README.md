@@ -2,7 +2,7 @@
 
 Small repository to create a chirstmas tree picture using Python and Turtle. This image is used for our personal christmas card.
 
-Want to explore the code by yourself? Please follow these steps:
+Want to explore the code by yourself? Then follow these steps:
 
 ### Get Python and Jupyter up and running
 1. Install Python to you personal computer. A simple start is using Miniconda (https://docs.conda.io/en/latest/miniconda.html), you should select here a Python 3.x version in 64-bit. For Mac, select the PKG variant. If the installer asks you if you want to add miniconda to your PATH, this is handy to do. 
